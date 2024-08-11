@@ -34,7 +34,6 @@
                             Top menu can become any of the 3 mobile view menu styles:
                             <em>default</em>
                             ,
-                           
                             <em>collapsible</em>
                             or
                             <em>minimized</em>.
